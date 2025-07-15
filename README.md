@@ -25,7 +25,7 @@ A machine learning web application that predicts diabetes risk using Random Fore
 - **Dataset**: Pima Indians Diabetes Database (768 samples, 8 features)
 - **Target**: Binary classification (0: Non-diabetic, 1: Diabetic)
 
-## 🔧 Requirements
+## Requirements
 
 Create `requirements.txt`:
 ```
@@ -35,7 +35,7 @@ pandas==2.0.3
 numpy==1.24.3
 ```
 
-## 📊 Input Parameters
+##  Input Parameters
 
 - **Pregnancies**: 0-10
 - **Glucose**: 0-200 mg/dL
